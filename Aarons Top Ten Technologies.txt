@@ -1,12 +1,15 @@
 1) Machine Learning
 3) Natural Language Processing
-4) Internet of Things (IoT)
+4) Telemedicine, Wearables, Mobile and Internet of Things (IoT)
 5) Augmented Reality and Virtual Reality
 6) Blockchain and Cybersecurity
 7) Graph Databases, Big Data and Mobile Data
 8) Biometrics and Genomics
 9) DevOps, Cloud, and Robotic Process and Automation Maturity
 10) 
+
+Tensorflow, Tensorflow Lite
+IBM Watson, MS Hanover, Google DeepMind, Intel Lumiata
 
 AI/ML/NLP/IoT/AR/VR/
 
