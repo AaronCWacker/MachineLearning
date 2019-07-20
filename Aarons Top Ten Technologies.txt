@@ -2,11 +2,11 @@
 3) Natural Language Processing
 4) Telemedicine, Wearables, Mobile and Internet of Things (IoT)
 5) Augmented Reality and Virtual Reality
-6) Blockchain and Cybersecurity
-7) Graph Databases, Big Data and Mobile Data
+6) Cybersecurity, Blockchain and Mobile Distributed Data
+7) Graph Data and Big Data
 8) Biometrics and Genomics
-9) DevOps, Cloud, and Robotic Process and Automation Maturity
-10) 
+9) DevOps, Operationalization, Cloud
+10) Robotic Process and Automation Maturity
 
 Tensorflow, Tensorflow Lite
 IBM Watson, MS Hanover, Google DeepMind, Intel Lumiata
