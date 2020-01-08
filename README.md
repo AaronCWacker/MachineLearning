@@ -37,7 +37,10 @@ DevOps | Technical director or engineering lead of a large, successful app with 
 Cloud | Developed server stacks operating in public cloud IaaS or PaaS, such as AWS or Google Cloud Platform
 Cloud | Hosting providers, such as Google Cloud, Azure or AWS
 ML and AR | Intelligent Augmented Reality
+ML and AR | Experience with SLAM systems or large-scale bundle adjustment problems in structure-from-motion setting
 ML and Vision | Designed novel computational models / CNN architectures to tackle vision-related problems
+ML and Vision | Computer vision geometry for 3D pose estimation and tracking
+ML and Vision | Experience building production computer vision or deep learning systems
 ML | ML or 3D graphics applications for mobile devices
 ML | Collaborate with ML, data scientists, and Legal to design and implement compliant, secure, and robust feature stores
 ML | Emerging best-practices in mathematical programming and optimization theory
@@ -49,7 +52,6 @@ ML | Developing inexact Levenberg-Marquardt solvers for large sparse non-linear 
 ML | Experience with designing and developing iterative solvers for distributed data and/or distributed computational resources
 ML | Programming experience with C++, CUDA, cuBLAS, Ceres
 ML | Programming experience with cupy
-ML and AR | Experience with SLAM systems or large-scale bundle adjustment problems in structure-from-motion setting
 ML | Publications on mathematical optimization in mathematical optimization venues such as Journal Optimization, Journal of Optimization Theory and Applications, Optimization Letters, Optimization and Engineering, Optimization Methods and Software, Mathematical Programming, Mathematical Programming Computation, Journal on Scientific Computing
 ML | Rotation-averaging approaches for large-scale structure-from-motion problems
 ML | Coded contributions to Google’s Ceres Solver or similar open-source solvers
@@ -57,12 +59,13 @@ ML and Data Science | BI, dashboarding, and visualization tools (e.g. Tableau, L
 ML | Scaling machine learning or 3D geometry systems
 ML | Extensive experience in C++ and OpenCV or other computer vision libraries
 ML | Experience with any type of parallel programming (GPU/VPU, multi-core or distributed systems)
-ML and Vision | Computer vision geometry for 3D pose estimation and tracking
-ML and Vision | Experience building production computer vision or deep learning systems
 ML | Experience with a deep learning framework (Tensorflow, Caffe, PyTorch)
+Unity, AR, 3D, and Mobile | Strong experience with Unity3D, Blender
+Unity Mobile | Experience working on a consumer mobile application
+Unity Mobile | Game engines and tools such as Unity3D (preferred) or Unreal Engine
 Streaming | ZeroMQ or message passing/stream based logic frameworks
 Big and Graph Data | NoSQL databases such as Cassandra, Redis, or RocksDB
-Data | Web applications involving manipulation of geospatial, customer management, or analytics data
+Big and Graph Data | Web applications involving manipulation of geospatial, customer management, or analytics data
 Cloud and Network | Writing network protocol using gRPC for high availability data systems
 Cloud and Network | Building virtual networking topologies using K8, Helm and/or Terraform
 Mobile | iOS and Android development
@@ -75,15 +78,11 @@ UI/UX/DevOps | Translate paper game design into playable experiences
 UI/UX/DevOps | Find opportunities for, and ideate on, new game systems, content, and feature improvements
 UI/UX/DevOps | Define custom tools for crafting and editing game data
 UI/UX/DevOps | Knowledge and experience with A/B testing or randomized control trials.
-Unity, AR, 3D, and Mobile | Strong experience with Unity3D, Blender
-Unity Mobile | Experience working on a consumer mobile application
-Unity Mobile | Game engines and tools such as Unity3D (preferred) or Unreal Engine
 White Papers | Papers accepted to any of: CVPR, ICCV, ECCV, BMVC, NeurIPS, ICLR, ICML, SIGGRAPH, Europgraphics, ICRA, IROS, or ISMAR
 White Papers | Experience collecting or organizing data to validate your research
 White Papers | Implement efficient code to validate your research
 White Papers | Publications in a top tier conference such as CVPR, ICCV, ECCV, NIPS, ICLR, ICML
 White Papers | Publications on structure-from-motion, bundle adjustment or SLAM in computer vision venues such as CVPR, ECCV, ICCV, IJCV, WACV, PAMI
-
 Art Direction | Demonstrable leadership skills with excellent problem solving and diplomatic skills
 Art Direction | Portfolio of work that demonstrates compelling visuals across multiple genres of games - both realistic and stylized
 Art Direction | Body of work should also show an ability to establish and maintain an artistic vision across an entire game
@@ -94,7 +93,6 @@ Art Direction | Particle FX and shaders in the Unity Game Engine whilst making s
 Art Direction | Maintain clean, organized FX and Shader libraries
 Art Direction | Skills with particle systems and node based shader creation
 Art Direction | Photoshop, Maya, Max or Houdini
-
 Business | Identify, originate deals and build relationships with MNOs and OEMs
 Business | Post-deal, manage these strategic partnerships and relationships with key sponsors, to ensure their success
 Business | Collaborate closely with Product Managers, Engineers and Legal team to ensure contracts meet internal needs
@@ -104,8 +102,6 @@ Business | Phenomenal communications skills as you will represent in external pa
 Business | Self-starter who’s started and led key initiatives
 Business | Analytical mind that can find solutions to achieve a great outcome for every partnership and build basic models
 Business | Deep understanding of products and the mobile app industry
-
-
 
 
 ![GitHub Logo](/images/logo.png)
