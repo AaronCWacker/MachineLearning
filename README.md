@@ -59,6 +59,58 @@ Publications on mathematical optimization in mathematical optimization venues su
 Publications on structure-from-motion, bundle adjustment or SLAM in computer vision venues such as CVPR, ECCV, ICCV, IJCV, WACV, PAMI
 Rotation-averaging approaches for large-scale structure-from-motion problems
 Coded contributions to Google’s Ceres Solver or similar open-source solvers
+BI, dashboarding, and visualization tools (e.g. Tableau, Looker, Periscope, Grafana)
+AR Real World Platform
+AR features in C++ that index AR data at scale
+ZeroMQ or message passing/stream based logic frameworks
+Hosting providers, such as Google Cloud, Azure or AWS
+NoSQL databases such as Cassandra, Redis, or RocksDB
+Scaling machine learning or 3D geometry systems
+Extensive experience in C++ and OpenCV or other computer vision libraries
+Experience with any type of parallel programming (GPU/VPU, multi-core or distributed systems)
+Computer vision geometry for 3D pose estimation and tracking
+Experience building production computer vision or deep learning systems
+Experience with a deep learning framework (Tensorflow, Caffe, PyTorch)
+Publications in a top tier conference such as CVPR, ICCV, ECCV, NIPS, ICLR, ICML
+Experience with Javascript and web frameworks, particularly in Angular2
+Web applications involving manipulation of geospatial, customer management, or analytics data
+Writing network protocol using gRPC for high availability data systems
+Building virtual networking topologies using K8, Helm and/or Terraform
+iOS and Android development
+
+Demonstrable leadership skills with excellent problem solving and diplomatic skills
+Portfolio of work that demonstrates compelling visuals across multiple genres of games - both realistic and stylized
+Body of work should also show an ability to establish and maintain an artistic vision across an entire game
+Excellent technical ability with a thorough understanding of realtime rendering and post processing
+Ability to create both 2D and 3D assets to a high standard
+Visual FX across all areas of the game ranging from environmental and character related FX to User Interface FX
+Particle FX and shaders in the Unity Game Engine whilst making sure they are optimum for mobile and VR platforms
+Maintain clean, organized FX and Shader libraries
+Skills with particle systems and node based shader creation
+Photoshop, Maya, Max or Houdini
+
+Identify, originate deals and build relationships with MNOs and OEMs
+Post-deal, manage these strategic partnerships and relationships with key sponsors, to ensure their success
+Collaborate closely with Product Managers, Engineers and Legal team to ensure contracts meet internal needs
+Be the face by attending or presenting at industry-related events
+Lead and execute on community engagement initiatives, including those related to outdoor community events and educational projects
+Phenomenal communications skills as you will represent in external party discussions. You are comfortable presenting at the C-level, both externally and within
+Self-starter who’s started and led key initiatives
+Analytical mind that can find solutions to achieve a great outcome for every partnership and build basic models
+Deep understanding of products and the mobile app industry
+
+Working with InVision or similar UX visual prototyping workflow
+Head up a team of designers to bring the overall vision to life
+Communicate goal-focused designs with clear and concise documentation
+Work with cross-functional teams of engineers, artists, and producers to define creative vision and ultimately deliver an extraordinary gameplay experience.
+Translate paper game design into playable experiences
+Find opportunities for, and ideate on, new game systems, content, and feature improvements
+Define custom tools for crafting and editing game data
+Knowledge and experience with A/B testing or randomized control trials.
+
+
+
+
 
 ![GitHub Logo](/images/logo.png)
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
