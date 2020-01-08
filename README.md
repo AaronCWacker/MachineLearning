@@ -18,34 +18,34 @@ AR | Solve emerging problems that relate to location-based AR, training data, 3D
 AR | Deliver the next generation of intelligent Augmented Reality
 AR | AR Real World Platform
 AR | AR features in C++ that index AR data at scale
-Computer Vision | vision, machine learning, graphics, and robotics
+AR and SLAM | Experience with SLAM systems or large-scale bundle adjustment problems in structure-from-motion setting
 Patents and Invention | Perform scientifically rigorous research into novel algorithms, leading to fun and useful inventions.
 Patents and Invention | Publish and patent discoveries, and teach others, internally/externally, what you have learned.
 Patents and Invention | Pick important problems and technologies, and stay current with the international community, by reading papers, code, and blogs, and by attending conferences
 POC and Prototype | Build proof of concept prototypes, initially for internal use, where some will need to scale to millions of users
 Big Data and Graph Data | Data storage technologies such as Hadoop, Cassandra, Druid, and their trade-offs
 Big Data and Graph Data | Google data stack (e.g. Spanner, BigQuery, BigTable)
-DevOps | Expert in Java, Python, C# and SQL
 Cloud | Large advertising networks, e.g. Google, Facebook, Twitter, Apple
 Cloud | Cloud deployment and data processing tools (e.g. Airflow, Composer, Dataflow)
+Cloud | Developed server stacks operating in public cloud IaaS or PaaS, such as AWS or Google Cloud Platform
+Cloud | Hosting providers, such as Google Cloud, Azure or AWS
 DevOps | Leadership role to recruit and lead multiple high-performing teams of engineers and technical program managers
 DevOps | Hands-on in technical decisions and ensure all project teams are properly resourced with the relevant talent and skill sets
 DevOps | Software engineer for at least eight years
 DevOps | Experience building and managing engineering teams at both public tech companies and startups
 DevOps | Built applications that are highly scalable, secure, and performant using industry best practices
 DevOps | Technical director or engineering lead of a large, successful app with both a scalable-server component as well as a relevant client component
-Cloud | Developed server stacks operating in public cloud IaaS or PaaS, such as AWS or Google Cloud Platform
-Cloud | Hosting providers, such as Google Cloud, Azure or AWS
+DevOps | Expert in Java, Python, C# and SQL
 ML and AR | Intelligent Augmented Reality
-ML and AR | Experience with SLAM systems or large-scale bundle adjustment problems in structure-from-motion setting
+ML and Vision | vision, machine learning, graphics, and robotics
 ML and Vision | Designed novel computational models / CNN architectures to tackle vision-related problems
 ML and Vision | Computer vision geometry for 3D pose estimation and tracking
 ML and Vision | Experience building production computer vision or deep learning systems
 ML | ML or 3D graphics applications for mobile devices
 ML | Collaborate with ML, data scientists, and Legal to design and implement compliant, secure, and robust feature stores
 ML | Emerging best-practices in mathematical programming and optimization theory
-ML | Mathematical/numerical optimization, matrix calculus, advanced linear algebra, functional analysis, numerical analysis and approximation theory
-ML | Developing and deploying custom solvers for large-scale constrained optimization problems
+ML and AR | Mathematical/numerical optimization, matrix calculus, advanced linear algebra, functional analysis, numerical analysis and approximation theory
+ML and AR | Developing and deploying custom solvers for large-scale constrained optimization problems
 ML | Programming experience with python, numpy and scipy
 ML | Developing and deploying custom solvers for optimization of non-linear (robust) least squares problems with sparse Jacobians
 ML | Developing inexact Levenberg-Marquardt solvers for large sparse non-linear least squares problems (see Wright and Holt, Australian Mathematical Society 1985)
@@ -63,12 +63,12 @@ ML | Experience with a deep learning framework (Tensorflow, Caffe, PyTorch)
 Unity, AR, 3D, and Mobile | Strong experience with Unity3D, Blender
 Unity Mobile | Experience working on a consumer mobile application
 Unity Mobile | Game engines and tools such as Unity3D (preferred) or Unreal Engine
+Unity Mobile | iOS and Android development
 Streaming | ZeroMQ or message passing/stream based logic frameworks
 Big and Graph Data | NoSQL databases such as Cassandra, Redis, or RocksDB
 Big and Graph Data | Web applications involving manipulation of geospatial, customer management, or analytics data
 Cloud and Network | Writing network protocol using gRPC for high availability data systems
 Cloud and Network | Building virtual networking topologies using K8, Helm and/or Terraform
-Mobile | iOS and Android development
 UI/UX | Experience with Javascript and web frameworks, particularly in Angular2
 UI/UX/DevOps | Working with InVision or similar UX visual prototyping workflow
 UI/UX/DevOps | Head up a team of designers to bring the overall vision to life
