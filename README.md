@@ -14,7 +14,6 @@
 Advanced Technology | Technology Stack
 ------------ | -------------
 AR/VR | location-based AR, training data, 3D geometry, model efficiency, and interactive systems
-AI and AR | Intelligent Augmented Reality
 Computer Vision | vision, machine learning, graphics, and robotics
 Patents and Invention | Perform scientifically rigorous research into novel algorithms, leading to fun and useful inventions.
 Patents and Invention | Publish and patent discoveries, and teach others, internally/externally, what you have learned.
@@ -45,7 +44,8 @@ DevOps | Built applications that are highly scalable, secure, and performant usi
 Tech Direction | Technical director or engineering lead of a large, successful app with both a scalable-server component as well as a relevant client component
 Cloud | Developed server stacks operating in public cloud IaaS or PaaS, such as AWS or Google Cloud Platform
 Cloud | Hosting providers, such as Google Cloud, Azure or AWS
-ML | Designed novel computational models / CNN architectures to tackle vision-related problems
+ML and AR | Intelligent Augmented Reality
+ML and Vision | Designed novel computational models / CNN architectures to tackle vision-related problems
 ML | ML or 3D graphics applications for mobile devices
 ML | Collaborate with ML, data scientists, and Legal to design and implement compliant, secure, and robust feature stores
 ML | Emerging best-practices in mathematical programming and optimization theory
@@ -71,7 +71,7 @@ ML | Experience with a deep learning framework (Tensorflow, Caffe, PyTorch)
 Streaming | ZeroMQ or message passing/stream based logic frameworks
 Big and Graph Data | NoSQL databases such as Cassandra, Redis, or RocksDB
 UI/UX | Experience with Javascript and web frameworks, particularly in Angular2
-Web applications involving manipulation of geospatial, customer management, or analytics data
+Data | Web applications involving manipulation of geospatial, customer management, or analytics data
 Cloud and Network | Writing network protocol using gRPC for high availability data systems
 Cloud and Network | Building virtual networking topologies using K8, Helm and/or Terraform
 Mobile | iOS and Android development
