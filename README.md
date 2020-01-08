@@ -14,23 +14,15 @@
 Advanced Technology | Technology Stack
 ------------ | -------------
 AR/VR | location-based AR, training data, 3D geometry, model efficiency, and interactive systems
-Computer Vision | vision, machine learning, graphics, and robotics
-Patents and Invention | Perform scientifically rigorous research into novel algorithms, leading to fun and useful inventions.
-Patents and Invention | Publish and patent discoveries, and teach others, internally/externally, what you have learned.
-Patents and Invention | Pick important problems and technologies, and stay current with the international community, by reading papers, code, and blogs, and by attending conferences
 AR | Solve emerging problems that relate to location-based AR, training data, 3D geometry, model efficiency, and interactive systems
 AR | Deliver the next generation of intelligent Augmented Reality
 AR | AR Real World Platform
 AR | AR features in C++ that index AR data at scale
+Computer Vision | vision, machine learning, graphics, and robotics
+Patents and Invention | Perform scientifically rigorous research into novel algorithms, leading to fun and useful inventions.
+Patents and Invention | Publish and patent discoveries, and teach others, internally/externally, what you have learned.
+Patents and Invention | Pick important problems and technologies, and stay current with the international community, by reading papers, code, and blogs, and by attending conferences
 POC and Prototype | Build proof of concept prototypes, initially for internal use, where some will need to scale to millions of users
-White Papers | Papers accepted to any of: CVPR, ICCV, ECCV, BMVC, NeurIPS, ICLR, ICML, SIGGRAPH, Europgraphics, ICRA, IROS, or ISMAR
-White Papers | Experience collecting or organizing data to validate your research
-White Papers | Implement efficient code to validate your research
-White Papers | Publications in a top tier conference such as CVPR, ICCV, ECCV, NIPS, ICLR, ICML
-White Papers | Publications on structure-from-motion, bundle adjustment or SLAM in computer vision venues such as CVPR, ECCV, ICCV, IJCV, WACV, PAMI
-Unity, AR, 3D, and Mobile | Strong experience with Unity3D, Blender
-Unity Mobile | Experience working on a consumer mobile application
-Unity Mobile | Game engines and tools such as Unity3D (preferred) or Unreal Engine
 Big Data and Graph Data | Data storage technologies such as Hadoop, Cassandra, Druid, and their trade-offs
 Big Data and Graph Data | Google data stack (e.g. Spanner, BigQuery, BigTable)
 DevOps | Expert in Java, Python, C# and SQL
@@ -41,7 +33,7 @@ DevOps | Hands-on in technical decisions and ensure all project teams are proper
 DevOps | Software engineer for at least eight years
 DevOps | Experience building and managing engineering teams at both public tech companies and startups
 DevOps | Built applications that are highly scalable, secure, and performant using industry best practices
-Tech Direction | Technical director or engineering lead of a large, successful app with both a scalable-server component as well as a relevant client component
+DevOps | Technical director or engineering lead of a large, successful app with both a scalable-server component as well as a relevant client component
 Cloud | Developed server stacks operating in public cloud IaaS or PaaS, such as AWS or Google Cloud Platform
 Cloud | Hosting providers, such as Google Cloud, Azure or AWS
 ML and AR | Intelligent Augmented Reality
@@ -70,11 +62,28 @@ ML and Vision | Experience building production computer vision or deep learning 
 ML | Experience with a deep learning framework (Tensorflow, Caffe, PyTorch)
 Streaming | ZeroMQ or message passing/stream based logic frameworks
 Big and Graph Data | NoSQL databases such as Cassandra, Redis, or RocksDB
-UI/UX | Experience with Javascript and web frameworks, particularly in Angular2
 Data | Web applications involving manipulation of geospatial, customer management, or analytics data
 Cloud and Network | Writing network protocol using gRPC for high availability data systems
 Cloud and Network | Building virtual networking topologies using K8, Helm and/or Terraform
 Mobile | iOS and Android development
+UI/UX | Experience with Javascript and web frameworks, particularly in Angular2
+UI/UX/DevOps | Working with InVision or similar UX visual prototyping workflow
+UI/UX/DevOps | Head up a team of designers to bring the overall vision to life
+UI/UX/DevOps | Communicate goal-focused designs with clear and concise documentation
+UI/UX/DevOps | Work with cross-functional teams of engineers, artists, and producers to define creative vision and ultimately deliver an extraordinary gameplay experience.
+UI/UX/DevOps | Translate paper game design into playable experiences
+UI/UX/DevOps | Find opportunities for, and ideate on, new game systems, content, and feature improvements
+UI/UX/DevOps | Define custom tools for crafting and editing game data
+UI/UX/DevOps | Knowledge and experience with A/B testing or randomized control trials.
+Unity, AR, 3D, and Mobile | Strong experience with Unity3D, Blender
+Unity Mobile | Experience working on a consumer mobile application
+Unity Mobile | Game engines and tools such as Unity3D (preferred) or Unreal Engine
+White Papers | Papers accepted to any of: CVPR, ICCV, ECCV, BMVC, NeurIPS, ICLR, ICML, SIGGRAPH, Europgraphics, ICRA, IROS, or ISMAR
+White Papers | Experience collecting or organizing data to validate your research
+White Papers | Implement efficient code to validate your research
+White Papers | Publications in a top tier conference such as CVPR, ICCV, ECCV, NIPS, ICLR, ICML
+White Papers | Publications on structure-from-motion, bundle adjustment or SLAM in computer vision venues such as CVPR, ECCV, ICCV, IJCV, WACV, PAMI
+
 Art Direction | Demonstrable leadership skills with excellent problem solving and diplomatic skills
 Art Direction | Portfolio of work that demonstrates compelling visuals across multiple genres of games - both realistic and stylized
 Art Direction | Body of work should also show an ability to establish and maintain an artistic vision across an entire game
@@ -85,6 +94,7 @@ Art Direction | Particle FX and shaders in the Unity Game Engine whilst making s
 Art Direction | Maintain clean, organized FX and Shader libraries
 Art Direction | Skills with particle systems and node based shader creation
 Art Direction | Photoshop, Maya, Max or Houdini
+
 Business | Identify, originate deals and build relationships with MNOs and OEMs
 Business | Post-deal, manage these strategic partnerships and relationships with key sponsors, to ensure their success
 Business | Collaborate closely with Product Managers, Engineers and Legal team to ensure contracts meet internal needs
@@ -94,15 +104,6 @@ Business | Phenomenal communications skills as you will represent in external pa
 Business | Self-starter who’s started and led key initiatives
 Business | Analytical mind that can find solutions to achieve a great outcome for every partnership and build basic models
 Business | Deep understanding of products and the mobile app industry
-UI/UX/DevOps | Working with InVision or similar UX visual prototyping workflow
-UI/UX/DevOps | Head up a team of designers to bring the overall vision to life
-UI/UX/DevOps | Communicate goal-focused designs with clear and concise documentation
-UI/UX/DevOps | Work with cross-functional teams of engineers, artists, and producers to define creative vision and ultimately deliver an extraordinary gameplay experience.
-UI/UX/DevOps | Translate paper game design into playable experiences
-UI/UX/DevOps | Find opportunities for, and ideate on, new game systems, content, and feature improvements
-UI/UX/DevOps | Define custom tools for crafting and editing game data
-UI/UX/DevOps | Knowledge and experience with A/B testing or randomized control trials.
-
 
 
 
