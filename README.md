@@ -16,22 +16,20 @@ Advanced Technology | Technology Stack
 AR/VR | location-based AR, training data, 3D geometry, model efficiency, and interactive systems
 AI and AR | Intelligent Augmented Reality
 Computer Vision | vision, machine learning, graphics, and robotics
-
-Perform scientifically rigorous research into novel algorithms, leading to fun and useful inventions.
-Publish and patent discoveries, and teach others, internally/externally, what you have learned.
-Pick important problems and technologies, and stay current with the international community, by reading papers, code, and blogs, and by attending conferences
-Solve emerging problems that relate to location-based AR, training data, 3D geometry, model efficiency, and interactive systems
-Build proof of concept prototypes, initially for internal use, where some will need to scale to millions of users
-Deliver the next generation of intelligent Augmented Reality
-Papers accepted to any of: CVPR, ICCV, ECCV, BMVC, NeurIPS, ICLR, ICML, SIGGRAPH, Europgraphics, ICRA, IROS, or ISMAR
-Designed novel computational models / CNN architectures to tackle vision-related problems
-Experience collecting or organizing data to validate your research
-Implement efficient code to validate your research
-ML or 3D graphics applications for mobile devices
-Strong experience with Unity3D, Blender
-
-Collaborate with ML, data scientists, and Legal to design and implement compliant, secure, and robust feature stores
-Data storage technologies such as Hadoop, Cassandra, Druid, and their trade-offs
+Patents and Invention | Perform scientifically rigorous research into novel algorithms, leading to fun and useful inventions.
+Patents and Invention | Publish and patent discoveries, and teach others, internally/externally, what you have learned.
+Patents and Invention | Pick important problems and technologies, and stay current with the international community, by reading papers, code, and blogs, and by attending conferences
+AR | Solve emerging problems that relate to location-based AR, training data, 3D geometry, model efficiency, and interactive systems
+AR | Deliver the next generation of intelligent Augmented Reality
+POC and Prototype | Build proof of concept prototypes, initially for internal use, where some will need to scale to millions of users
+White Papers | Papers accepted to any of: CVPR, ICCV, ECCV, BMVC, NeurIPS, ICLR, ICML, SIGGRAPH, Europgraphics, ICRA, IROS, or ISMAR
+ML | Designed novel computational models / CNN architectures to tackle vision-related problems
+White Papers | Experience collecting or organizing data to validate your research
+White Papers | Implement efficient code to validate your research
+ML | ML or 3D graphics applications for mobile devices
+AR, 3D, and Mobile | Strong experience with Unity3D, Blender
+ML | Collaborate with ML, data scientists, and Legal to design and implement compliant, secure, and robust feature stores
+Big Data and Graph Data | Data storage technologies such as Hadoop, Cassandra, Druid, and their trade-offs
 Expert in Java, Python, C# and SQL
 Large advertising networks, e.g. Google, Facebook, Twitter, Apple
 Google data stack (e.g. Spanner, BigQuery, BigTable)
