@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a225d5c2-8a71-4728-a082-e5a8872ac875/resourceGroups/ect-hackathon-rg/providers/Microsoft.Web/sites/AlphaWolves",
+    "appService.deploySubpath": "."
+}
