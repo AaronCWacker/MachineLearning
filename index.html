@@ -3,21 +3,23 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | SmartNotes</title>
-  </head>
-  <body style="text-align: center">
-    <canvas id="unity-canvas" style="width: 1280px; height: 1024px; background: url('6f6dc4bd6d52657e6a472a62fa0b44fb.jpg') center / cover"></canvas>
-    <script src="bbe49c8a070c38b0ff15e678f5e1cddf.js"></script>
+    <title>Unity WebGL Player | Unitablet</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/56b27af957420c10aef972428bfcf1ed.js"></script>
     <script>
-      createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "4e3e910b10156c70be9493e8f93dce6f.data",
-        frameworkUrl: "f38e031807a195fb51a77cc0b499fc9d.js",
-        codeUrl: "434bc685579107352c944c84362425a6.wasm",
-        streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "SmartNotes",
-        productVersion: "0.1",
-      });
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/b683b65d688c65db9639de60935b10d4.json", {onProgress: UnityProgress});
     </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 960px; height: 600px"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+        <div class="title">Unitablet</div>
+      </div>
+    </div>
   </body>
 </html>
