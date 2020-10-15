@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'ainlu'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ece0ad070fdc49aa84a0e7f44b94d129 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d4ebb9632b10405eb565ca2bfaf1d35e }}
         package: ${{env.DOTNET_ROOT}}/myapp 
