@@ -3,23 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Unitablet</title>
-    <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="style.css">
-    <script src="UnityProgress.js"></script>
-    <script src="56b27af957420c10aef972428bfcf1ed.js"></script>
-    <script>
-      var unityInstance = UnityLoader.instantiate("unityContainer", "02a8d2694c6144a15a4e0f78f0484ae2.json", {onProgress: UnityProgress});
-    </script>
+    <title>Unity WebGL Player | SmartNotes</title>
   </head>
-  <body>
-    <div class="webgl-content">
-      <div id="unityContainer" style="width: 960px; height: 600px"></div>
-      <div class="footer">
-        <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
-        <div class="title">Unitablet</div>
-      </div>
-    </div>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 1280px; height: 1024px; background: url('6f6dc4bd6d52657e6a472a62fa0b44fb.jpg') center / cover"></canvas>
+    <script src="bbe49c8a070c38b0ff15e678f5e1cddf.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "29f0dbcfd6ee61984557d99a070e38ad.data",
+        frameworkUrl: "b544222d77c73e9d8bc473f0d5032e6f.js",
+        codeUrl: "bbf655accbf65c2ce7a6dfc4f8a750f3.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "MachineLearning",
+        productName: "SmartNotes",
+        productVersion: "2.0",
+      });
+    </script>
   </body>
 </html>
