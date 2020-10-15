@@ -4,20 +4,68 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | SmartNotes</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
   </head>
-  <body style="text-align: center">
-    <canvas id="unity-canvas" style="width: 1280px; height: 1024px; background: url('Build/6f6dc4bd6d52657e6a472a62fa0b44fb.jpg') center / cover"></canvas>
-    <script src="Build/bbe49c8a070c38b0ff15e678f5e1cddf.js"></script>
+  <body>
+    <div id="unity-container" class="unity-desktop">
+      <canvas id="unity-canvas"></canvas>
+      <div id="unity-loading-bar">
+        <div id="unity-logo"></div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
+        </div>
+      </div>
+      <div id="unity-footer">
+        <div id="unity-webgl-logo"></div>
+        <div id="unity-fullscreen-button"></div>
+        <div id="unity-build-title">SmartNotes</div>
+      </div>
+    </div>
     <script>
-      createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/6ba7b000e5255ab05b9e0ea1a5984728.data",
-        frameworkUrl: "Build/e6ea056b49dc066365e72490a4fd05c3.js",
-        codeUrl: "Build/d7f1d3753684e2f732fa2a522b919cd1.wasm",
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/bbe49c8a070c38b0ff15e678f5e1cddf.js";
+      var config = {
+        dataUrl: buildUrl + "/c456988d33252a815a4e27013e0b397f.data",
+        frameworkUrl: buildUrl + "/353190183ad4b20a6015a7c9f5f3bdcc.js",
+        codeUrl: buildUrl + "/f30f8a2c8381b07f7d091792782310b9.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "MachineLearning",
         productName: "SmartNotes",
         productVersion: "2.0",
-      });
+      };
+
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+      var loadingBar = document.querySelector("#unity-loading-bar");
+      var progressBarFull = document.querySelector("#unity-progress-bar-full");
+      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        config.devicePixelRatio = 1;
+      } else {
+        canvas.style.width = "1280px";
+        canvas.style.height = "1024px";
+      }
+      canvas.style.background = "url('" + buildUrl + "/6f6dc4bd6d52657e6a472a62fa0b44fb.jpg') center / cover";
+      loadingBar.style.display = "block";
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+          progressBarFull.style.width = 100 * progress + "%";
+        }).then((unityInstance) => {
+          loadingBar.style.display = "none";
+          fullscreenButton.onclick = () => {
+            unityInstance.SetFullscreen(1);
+          };
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+      document.body.appendChild(script);
     </script>
   </body>
 </html>
