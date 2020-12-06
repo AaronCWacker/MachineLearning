@@ -4,8 +4,8 @@
 4) Telemedicine, Wearables, Mobile and Internet of Things (IoT)
 5) Augmented Reality and Virtual Reality
 6) Cybersecurity, Blockchain and Mobile Distributed Data
-7) Graph Data and Big Data
-8) Biometrics and Genomics
+7) Graph Data, Big Data, and Pragmatic Intelligence
+8) Biometrics, Genomics, and Computational Biology
 9) DevOps, Operationalization, Cloud
 10) Robotic Process and Automation Maturity
 
